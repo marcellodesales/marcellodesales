@@ -1,39 +1,75 @@
+### Hi there! I'm João Victor &nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+💻 Currently working with Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="15px" /> + Flutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15px"/><br/>
+👨‍💻 Mobile Developer at <a href="https://ilia.digital/">Ília Digital</a><br/>
+📚 Studying a bachelor's degree in Computer Engineering at <a href="https://www.ufg.br/">UFG</a>, scheduled to end in 2022<br/>
+🤓 Learning more about native mobile development & UX/UI<br/>
+🎉 23 years old<br/>
+📌 Currently living in Goiânia, Goiás - Brazil<br/>
+
+ ---
+ 
+ <div align="left">
+  <a href="https://github.com/jvictor-antonucci">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictor-antonucci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictor-antonucci&layout=compact&langs_count=8&theme=dark"/>
+</div>
+  <br/>
+ <div>
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/dart.png" title="dart">&ensp;&ensp;
+    <img src="https://img.icons8.com/fluency/30/000000/flutter.png" title="flutter">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/nodejs.png" title="nodejs">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/kotlin.png" title="kotlin">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/swift.png" title="swift">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/wordpress.png" title="wordpress">&ensp;&ensp;
+    <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="25px" title="html5">&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/30/000000/python.png" title="python"/>&ensp;&ensp;
+</div>
+  
+ ---
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvictor-antonucci/)](https://www.linkedin.com/in/jvictor-antonucci/)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=rounded-square&logo=Gmail&logoColor=white&link=mailto:jvictor.antonucci@gmail.com)](mailto:jvictor.antonucci@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-@jvictorAntonucci-blue?style=rounded-square&labelColor=blue&logo=telegram&logoColor=white&link=https://t.me/jvictorAntonucci/)](https://t.me/jvictorAntonucci)
+
+
 
 
 <h1 align='center'>
-  Hi there 👋I am Wallace Wesley 
+  Hi there, 👋 I am Marcello DeSales
   <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height="45px">
 </h1>
 
 <h4 align='center'>
-  A Front-end and Mobile developer from São Paulo, Brazil.
+    Software Engineer from San Diego, California, USA
 </h4>
 
 
 
 <p align='center'>
   
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a  href="https://www.linkedin.com/in/wallace-wesley-de-oliveira-91b1b612a/" target="_blank">
+  <a  href="https://www.linkedin.com/in/marcello-desales" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/wallace_wesley/" target="_blank">
+  <a href="https://www.instagram.com/marcello.desales/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wallacewolv&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marcellodesales&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
   💻 My personal workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/MacOS-%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2006th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> -->
 </p>
 
