@@ -1,6 +1,13 @@
-### Marcello DeSales
+<h1 align='center'>
+  Hi there, I am Marcello DeSales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height="45px">
+</h1>
 
-I'm Marcello, Software Engineer and open-source collaborator... 
+💻 Usually work with Golang, Python, Nodejs, Java <br/>
+👨‍💻 Software Engineer and Open-source Developer <br/>
+📚 Best-practice Development-based solutions <br/>
+🤖 AI-Based Software Engineering integrated with CloudNative <br/>
+📌 San Diego, California
 
 ## You can find me on
 
@@ -14,7 +21,7 @@ I'm Marcello, Software Engineer and open-source collaborator...
 
 ## About me
 
-Hold a B.S. and M.S. in Computer Science, started working as a Software Engineer in 1999 while still in undergrad school... 
+I Hold a B.S. and a M.S. in Computer Science, started working as a Software Engineer in 1999 while still in undergraduate school... 
 
 ## Tecnical Skills
 
