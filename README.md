@@ -7,7 +7,7 @@
 👨‍💻 Software Engineer and Open-source Developer <br/>
 📚 Best-practice Development-based solutions <br/>
 🤖 AI-Based Software Engineering integrated with CloudNative <br/>
-📌 San Diego, California
+📌 Dana Point, California
 
 ## You can find me on
 
